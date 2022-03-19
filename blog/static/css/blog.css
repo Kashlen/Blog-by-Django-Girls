@@ -62,6 +62,8 @@ h4 {
     color: #28af6d;
     background: none;
     border-color: #28af6d;
+    margin-left: 4px;
+    border: 0pt;
 }
 
 .btn-secondary:hover {
